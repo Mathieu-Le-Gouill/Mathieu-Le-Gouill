@@ -19,7 +19,6 @@
 
 > AI/ML engineer with a **double degree in Artificial Intelligence** (Engineering degree at ENIB + Master's at UQAC, Canada).
 > I design robust, reproducible, **actually-deployed** AI systems - from **SIMD-optimized deep learning libraries in modern C++** to **containerized RAG / LLM pipelines** in the cloud.
-> Three R&D / ML internships across **AI research (InterDigital)**, **LLM evaluation (Crédit Mutuel Arkéa)** and **conversational AI (Genesys)**.
 
 📍 Brest, France &nbsp;·&nbsp; 🗣️ French (native) · English (C1) · Spanish · Mandarin (notions)
 
