@@ -17,8 +17,8 @@
 
 ### 🧠 About me
 
-> AI/ML engineer with a **double degree in Artificial Intelligence** (Engineering degree @ ENIB + Master's @ UQAC, Canada).
-> I design robust, reproducible, **actually-deployed** AI systems — from **SIMD-optimized deep learning libraries in modern C++** to **containerized RAG / LLM pipelines** in the cloud.
+> AI/ML engineer with a **double degree in Artificial Intelligence** (Engineering degree at ENIB + Master's at UQAC, Canada).
+> I design robust, reproducible, **actually-deployed** AI systems - from **SIMD-optimized deep learning libraries in modern C++** to **containerized RAG / LLM pipelines** in the cloud.
 > Three R&D / ML internships across **AI research (InterDigital)**, **LLM evaluation (Crédit Mutuel Arkéa)** and **conversational AI (Genesys)**.
 
 📍 Brest, France &nbsp;·&nbsp; 🗣️ French (native) · English (C1) · Spanish · Mandarin (notions)
@@ -39,7 +39,7 @@ A deep learning library built **from scratch** in modern **C++17**: compile-time
   </td>
     <td width="50%" valign="top">
 
-#### 🌐 [Transformer EN→FR — from scratch](https://github.com/Mathieu-Le-Gouill/Transformer-EN-FR)
+#### 🌐 [Transformer EN→FR - from scratch](https://github.com/Mathieu-Le-Gouill/Transformer-EN-FR)
 A complete **Transformer** architecture implemented from scratch in **PyTorch** for sequence-to-sequence translation, trained on **OPUS Books** with pretrained **BERT / CamemBERT** tokenizers. Train/inference pipeline driven by Makefile.
 
 `Python` · `PyTorch` · `CamemBERT` · `NLP`
@@ -49,7 +49,7 @@ A complete **Transformer** architecture implemented from scratch in **PyTorch** 
   <tr>
     <td width="50%" valign="top">
 
-#### 🔎 [LangChain RAG — REST API](https://github.com/Mathieu-Le-Gouill/LangChain_RAG)
+#### 🔎 [LangChain RAG - REST API](https://github.com/Mathieu-Le-Gouill/LangChain_RAG)
 A **production-ready RAG** system querying a vector store to return context-enriched answers, exposed through a modern **REST API** and fully **containerized with Docker** for reproducible deployment.
 
 `Python` · `LangChain` · `FastAPI` · `Docker`
@@ -58,7 +58,7 @@ A **production-ready RAG** system querying a vector store to return context-enri
     <td width="50%" valign="top">
 
 #### 🎨 [VQ-VAE & Generative Models Suite](https://github.com/Mathieu-Le-Gouill/Vector_Quantized_Variatonal_Autoencoder)
-From-scratch implementations of **VQ-VAE**, **β-VAE** and standard VAE, trained on MNIST for image generation & reconstruction — exploring **discrete latent spaces** and codebook learning.
+From-scratch implementations of **VQ-VAE**, **β-VAE** and standard VAE, trained on MNIST for image generation & reconstruction - exploring **discrete latent spaces** and codebook learning.
 
 `Python` · `PyTorch` · `Generative AI`
 
